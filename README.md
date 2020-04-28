@@ -23,7 +23,7 @@
   
 ## Detail
   
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/git2.PNG" width="1124" height="722"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/git2.PNG" width="1000" height="600"></p>
  
   
 ## Expected Achievement
