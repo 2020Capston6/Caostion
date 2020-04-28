@@ -15,7 +15,7 @@
   저희는 이러한 단점들을 획기적으로 개선하고 새로운 기능을 추가함으로서 사회적약자인 시각장애인들이 세상을 보다 편하게, 안전하게 보행하고 싶은 바램을 담아 이 프로젝트를 진행 하게 되었습니다.    
     
 ## GOAL
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/git1.PNG" width="1013" height="514"></p>    
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/git1.PNG" width="1013" height="490"></p>    
   저희의 휠지팡이는 기존의 시각장애인이 횡단보도 이용시 불편함을 해소하여 편히 이용할 수 있도록 합니다.
   지팡이에 탑재된 비전센서와 거리센서를 이용해 거리의 보행자 신호등과 신호를 자동으로 인식하여 음성알림을 지원합니다.
   비전센서는 전방의 시각데이터를 수집하여 서버의 미리 학습된 데이터를 이용해 신호등과 신호를 판별합니다.
