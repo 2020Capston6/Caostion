@@ -1,3 +1,4 @@
+/* Arduino Uno */
 #include <SPI.h>
 #include <Pixy2.h>
 
