@@ -1,0 +1,83 @@
+/* ESP 32 */
+#define C 262 // 도 
+#define D 294 // 레 
+#define E 330 // 미 
+//#define F 349 // 파 
+#define G 392 // 솔 
+#define A 440 // 라 
+#define B 494 // 시
+
+#define SOUND_PWM_CHANNEL   0
+#define SOUND_RESOLUTION    8 // 8 bit resolution
+#define SOUND_ON            (1<<(SOUND_RESOLUTION-1)) // 50% duty cycle
+#define SOUND_OFF           0
+
+const int trigPin = 32;
+const int echoPin = 35;
+const int dis_gnd = 33;
+
+const int led = 26; 
+const int led_gnd = 25; 
+
+long duration;
+int distance;
+
+void tone(int pin, int frequency, int duration)
+{
+  ledcSetup(SOUND_PWM_CHANNEL, frequency, SOUND_RESOLUTION);  // Set up PWM channel
+  ledcAttachPin(pin, SOUND_PWM_CHANNEL);                      // Attach channel to pin
+  ledcWrite(SOUND_PWM_CHANNEL, SOUND_ON);
+  delay(duration);
+  ledcWrite(SOUND_PWM_CHANNEL, SOUND_OFF);
+}
+
+int touch = 18;  // 터치센서 핀 설정
+int buz = 19;       // LED 핀 설정
+int tempo = 200;  
+int notes[25] = { G, G, A, A, G, G, E, G, G, E, E, D, G, G, A, A, G, G, E, G, E, D, E, C };
+void setup() {
+    pinMode(led_gnd, OUTPUT);   
+    pinMode(led, OUTPUT);   
+    pinMode(trigPin, OUTPUT); 
+    pinMode(echoPin, INPUT); 
+    pinMode(dis_gnd, OUTPUT);
+  Serial.begin(115200);
+  pinMode(buz, OUTPUT);  
+  pinMode(touch, INPUT);
+}
+ 
+void loop() {
+  //터치값 읽음
+      digitalWrite(trigPin, LOW);
+    delayMicroseconds(2);
+
+    digitalWrite(trigPin, HIGH);
+    delayMicroseconds(10);
+    digitalWrite(trigPin, LOW);
+
+    duration = pulseIn(echoPin, HIGH);
+    digitalWrite(led, 0);
+    digitalWrite(led_gnd, 0);
+    digitalWrite(dis_gnd, 0);
+    
+    distance= duration*0.034/2;
+    if(distance < 100){
+      digitalWrite(led, 1);
+    }
+   
+    Serial.print("Distance: ");
+    Serial.println(distance);
+
+  int touchValue = digitalRead(touch);
+  static int i=0;
+  if (touchValue == LOW){      // 터치됨
+       tone(buz,notes[i%25],tempo);
+       i++;
+       //delay(300);
+       Serial.println("TOUCHED");
+   }
+   else {                      //터치 안됨
+    Serial.println("NOT TOUCHED");
+    i=0;
+  }
+}
