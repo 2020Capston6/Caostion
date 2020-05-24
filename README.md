@@ -15,7 +15,7 @@
   저희는 이러한 단점들을 획기적으로 개선하고 새로운 기능을 추가함으로써 사회적약자인 시각장애인들이 세상을 보다 편하게, 안전하게 보행하고 싶은 바램을 담아 이 프로젝트를 진행 하게 되었습니다. 
   
 ## About Out Goal
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about1.PNG" width="864" height="401"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about1.PNG" width="600" height="300"></p>
   보통 시각장애인들은 흰지팡이를 이용하여 위와 같은 유도블럭의 도움을 받아 보행을 합니다. 길쭉한 유도블럭은 그쪽 방향으로 서행하라는 의미이며, 촘촘한 점 유도블럭은 멈추라는 의미입니다. 횡단보도 등이 나오면 이러한 멈추라는 의미의 유도블럭이 나옵니다. 하지만 흰지팡이와 유도블럭만으로는 보행에 한계가 있습니다. 저희는 다음과 같은 문제점들에 대한 해결책을 제시하려고 합니다.
   
   <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about2.PNG" width="717" height="363"></p>
