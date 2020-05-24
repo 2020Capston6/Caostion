@@ -19,15 +19,15 @@
   보통 시각장애인들은 흰지팡이를 이용하여 위와 같은 유도블럭의 도움을 받아 보행을 합니다. 길쭉한 유도블럭은 그쪽 방향으로 서행하라는 의미이며, 촘촘한 점 유도블럭은 멈추라는 의미입니다. 횡단보도 등이 나오면 이러한 멈추라는 의미의 유도블럭이 나옵니다. 하지만 흰지팡이와 유도블럭만으로는 보행에 한계가 있습니다. 저희는 다음과 같은 문제점들에 대한 해결책을 제시하려고 합니다.
   
   ### Problem1
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about2.PNG" width="717" height="363"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about2.PNG" width="500" height="200"></p>
   보행자 신호등 옆에는 다음과 같이 시각장애인들을 위한 버튼이 있습니다. 이는 신호등의 색을 청각 정보를 전달해줍니다. 그러나 시각장애인들은 이마저도 본인들이 찾아야 하기 때문에 어려움이 있습니다. 이 문제를 비전센서를 통해 해소하고자 합니다.
   
   ### Problem2
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about3.PNG" width="657" height="332"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about3.PNG" width="500" height="170"></p>
   또한 다음과 같이 흰지팡이를 이용하더라도 모든 장애물들을 감지하기에는 한계가 있습니다. 이 문제를 초음파 거리센서를 통해 해소하고자 합니다.
   
   ### Problem3
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about4.PNG" width="327" height="355"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/about4.PNG" width="250" height="300"></p>
   또한 시각장애인들은 도움이 필요한 경우, 주변에 도움을 줄 수 있는 사람이 있는지, 어디에 있는지를 파악하기가 힘듭니다. 따라서 위와 같이 도움이 필요한 경우를 표출하기도 하지만, 보행자들은 이 의미를 파악하기 힘듭니다. 또한 정말 위급하며 주변에 도와줄 사람이 없는 경우에도 큰 문제가 됩니다. 이 문제를 터치센서와 오디오 장치, GPS 모듈을 통해 해소하고자 합니다.
     
 ## GOAL
