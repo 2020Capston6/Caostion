@@ -74,6 +74,17 @@
 ## Our Product
   <img src="https://github.com/2020Capston6/Capston/blob/master/img/product.PNG" width="350" height="250"><img src="https://github.com/2020Capston6/Capston/blob/master/img/product1.PNG" width="200" height="250"><img src="https://github.com/2020Capston6/Capston/blob/master/img/product2.PNG" width="250" height="200">
   
+## 시연
+  ### 비전센서
+  https://www.youtube.com/watch?time_continue=10&v=WdmUXlJQAFE&feature=emb_logo
+  https://www.youtube.com/watch?time_continue=4&v=fvFuvFG0NY0&feature=emb_logo
+  
+  ### 거리센서
+  https://www.youtube.com/watch?v=KZO6JP7cUYI&feature=emb_logo
+  
+  ### 터치센서
+  https://www.youtube.com/watch?v=t7IN3Yq9SIw&feature=emb_logo
+  
 ## Teams
   
   팀 구성원 :  송민국  장승민  변홍수    
