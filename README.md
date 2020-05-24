@@ -72,9 +72,9 @@
   해당되는 정보는 판단 후에 디바이스에서 오디오 시스템으로 출력합니다.
   
 ## Our Product
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product.jpg" width="463" height="397">
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product1.jpg" width="289" height="381">
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product2.jpg" width="350" height="300">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product.png" width="463" height="397">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product1.png" width="200" height="250">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product2.png" width="250" height="200">
   
 ## Teams
   
