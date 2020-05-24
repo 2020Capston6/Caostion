@@ -50,8 +50,6 @@
   
   <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/detail.PNG" width="1000" height="600"></p>
   
-  
-  
   <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/detail2.PNG" width="800" height="350"></p>
  
   
@@ -72,6 +70,11 @@
   분석한 객체검출의 결과를 본인에게 음성 메세지를 통해서 알려줍니다.
   분석한 내용 및 위험들은 웹서버에 저장합니다.
   해당되는 정보는 판단 후에 디바이스에서 오디오 시스템으로 출력합니다.
+  
+## Our Product
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product.jpg" width="463" height="397">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product1.jpg" width="289" height="381">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product2.jpg" width="350" height="300">
   
 ## Teams
   
