@@ -85,6 +85,94 @@
   ### 터치센서
   https://www.youtube.com/watch?v=t7IN3Yq9SIw&feature=emb_logo
   
+
+## 코드
+
+### 비전센서
+```cpp
+#include <SPI.h>
+#include <Pixy2.h>
+
+Pixy2 pixy;
+
+int red = 6;
+int blu = 7;
+
+void setup(){
+  pixy.init();
+  Serial.begin(115200);
+  Serial.print("Starting...\n");
+  pinMode (red, OUTPUT);
+  pinMode (blu, OUTPUT);
+}
+
+void loop(){
+  static int i = 0;
+  int j;
+  uint16_t blocks;
+  char buf[32];
+  digitalWrite (red, LOW);
+  digitalWrite (blu, LOW);
+  pixy.ccc.getBlocks();
+  if (pixy.ccc.numBlocks){
+    Serial.print("Detected ");
+    Serial.println(pixy.ccc.numBlocks);
+
+    if (i%50==0){
+      int val=pixy.ccc.blocks[j].m_signature;
+      Serial.println(val);
+    
+      if(pixy.ccc.blocks[0].m_signature == 1){
+        digitalWrite (red, HIGH);
+        delay (100);
+      }
+    
+      if(pixy.ccc.blocks[0].m_signature == 2){
+        digitalWrite (blu, HIGH);
+        delay (100);
+      }
+    }
+  }
+}
+```
+
+### 터치센서
+```cpp
+#define C 262 // 도 
+#define D 294 // 레 
+#define E 330 // 미 
+//#define F 349 // 파 
+#define G 392 // 솔 
+#define A 440 // 라 
+#define B 494 // 시
+
+int touch = 8;  // 터치센서 핀 설정
+int buz = 9;       // LED 핀 설정
+int tempo = 200;  
+int notes[25] = { G, G, A, A, G, G, E, G, G, E, E, D, G, G, A, A, G, G, E, G, E, D, E, C };
+void setup() {
+  Serial.begin(115200);
+  pinMode(buz, OUTPUT);  
+  pinMode(touch, INPUT);
+}
+ 
+void loop() {
+  //터치값 읽음
+  int touchValue = digitalRead(touch);
+  static int i=0;
+  if (touchValue == HIGH){      // 터치됨
+       tone(buz,notes[i],tempo);
+       i++;
+       delay(300);
+       Serial.println("NOT TOUCHED");
+   }
+   else {                      //터치 안됨
+    Serial.println("NOT TOUCHED");
+    i=0;
+  }
+}
+```
+ 
 ## Teams
   
   팀 구성원 :  송민국  장승민  변홍수    
