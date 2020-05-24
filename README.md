@@ -50,7 +50,7 @@
 ## Teams
   
   팀구성원 : 송민국 장승민 변홍수    
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/1.jpeg" width="150" height="150">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/1.jpg" width="150" height="150">
   <img src="https://github.com/2020Capston6/Capston/blob/master/img/2.jpeg" width="150" height="150">
   <img src="https://github.com/2020Capston6/Capston/blob/master/img/3.jpeg" width="150" height="150">    
   ### 역할
