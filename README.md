@@ -35,15 +35,15 @@
   저희의 휠지팡이는 기존의 시각장애인이 횡단보도 이용시 불편함을 해소하여 편히 이용할 수 있도록 합니다.
   
 ## GOAL1
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal1.PNG" width="600" height="390"></p>
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal1.PNG" width="400" height="250"></p>
   비전센서를 이용하여 보행자가 신호등에 도착함을 인지했을 경우, 빨간불인지 파란불인지 판별하여 청각적인 정보로 전달해줍니다.
 
 ## GOAL2
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal2.PNG" width="441" height="322"></p>
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal2.PNG" width="350" height="270"></p>
   초음파 거리센서를 이용하여 전방에 접근하는 보행자나 부딪칠만한 장애물이 있으면 검출하여 진동을 통해 위험 경보를 전달해줍니다.
 
 ## GOAL3
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal3.PNG" width="557" height="378"></p>
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal3.PNG" width="400" height="250"></p>
   터치센서를 이용하여 시각장애인이 위험해 처한 경우, 도움을 요청할 수 있도록 "도와주세요" 등의 소리를 출력하며 위치정보를 전송하여 위급한 상황인 경우에 즉각적인 도움도 줄 수 있도록 합니다.
 
 ## Detail
