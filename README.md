@@ -267,5 +267,8 @@ void loop() {
 ## MileStones 
   * 4월 : 센서 연동 확인 , 데모 디자인 설계         
   * 5월 : 객체 인식 알고리즘 설계       
-  * 6월 : UI설계        
+  * 6월 : UI설계    
+  
+## Demo Day Preparation
+
   
