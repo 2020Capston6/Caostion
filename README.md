@@ -26,19 +26,30 @@
   또한 시각장애인들은 도움이 필요한 경우, 주변에 도움을 줄 수 있는 사람이 있는지, 어디에 있는지를 파악하기가 힘듭니다. 따라서 위와 같이 도움이 필요한 경우를 표출하기도 하지만, 보행자들은 이 의미를 파악하기 힘듭니다. 또한 정말 위급하며 주변에 도와줄 사람이 없는 경우에도 큰 문제가 됩니다. 이 문제를 터치센서와 오디오 장치, GPS 모듈을 통해 해소하고자 합니다.
     
 ## GOAL
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal.PNG" width="1013" height="440"></p>    
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/ggoal.PNG" width="1013" height="440"></p>    
   저희의 휠지팡이는 기존의 시각장애인이 횡단보도 이용시 불편함을 해소하여 편히 이용할 수 있도록 합니다.
   
 ## GOAL1
+기술 데모
 <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal1.PNG" width="400" height="250"></p>
+DEMODAY (최종 구현)
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/ggoal1.PNG" width="400" height="250"></p>
   비전센서를 이용하여 보행자가 신호등에 도착했을 경우, 파란불이 들어왔을 때 손잡이에 달린 진동 센서를 통해 정보를 전달해줍니다.
 
 ## GOAL2
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal2.PNG" width="350" height="270"></p>
+
+기술 데모
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal2.PNG" width="400" height="250"></p>
+DEMODAY (최종 구현)
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/ggoal2.PNG" width="400" height="250"></p>
   초음파 거리센서를 이용하여 전방에 접근하는 보행자나 부딪칠만한 장애물이 있으면 검출하여 버저의 소리를 통해 위험 경보를 전달해줍니다.
 
 ## GOAL3
+
+기술 데모
 <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal3.PNG" width="400" height="250"></p>
+DEMODAY (최종 구현)
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/ggoal3.PNG" width="400" height="250"></p>
   터치센서를 이용하여 시각장애인이 위험에 처한 경우 도움을 요청하는 소리를 출력합니다. 또한 위치정보를 서버에 전송하여 위급한 상황인 경우에 즉각적인 도움도 줄 수 있도록 합니다.  위치정보는 DB에 저장하여 추후에 위험이 많이 일어난 장소에 대한 보수 및 시설물 설치가 가능하도록 돕습니다.
 
 ## Detail
