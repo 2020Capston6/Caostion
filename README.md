@@ -62,8 +62,10 @@
   <img src="http://cscp2.sogang.ac.kr/CSE4186/CSE4186/UserData/Server.png">
   
 ## Our Product
-앞
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/product.PNG" width="350" height="250"><img src="https://github.com/2020Capston6/Capston/blob/master/img/product1.PNG" width="200" height="250"><img src="https://github.com/2020Capston6/Capston/blob/master/img/product2.PNG" width="250" height="200">
+### 앞
+  <img src="http://cscp2.sogang.ac.kr/CSE4186/CSE4186/UserData/Front.jpg">
+### 뒤
+  <img src="http://cscp2.sogang.ac.kr/CSE4186/CSE4186/UserData/Back.jpg" >
   
 ## 시연
   ### 비전센서
