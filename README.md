@@ -92,12 +92,27 @@ DEMODAY (최종 구현)
   https://www.youtube.com/watch?v=t7IN3Yq9SIw&feature=emb_logo
  
 
-## DEMODAY 최종 시연
+## DEMODAY 시연 (최종 시연)
   ### 비전센서
+  신호등 색 판별
+https://www.youtube.com/watch?v=B_iiDCr6e9M
   
   ### 거리센서
+  일반적인 지팡이인 경우 판단하지 못할 수 있는 장애물
+https://www.youtube.com/watch?v=J1JPnyd9oag
+
+장애물 감지
+https://www.youtube.com/watch?v=P7-h86daFy4
+
+보행자 감지
+https://www.youtube.com/watch?v=lORg5qbO4WI
   
   ### 터치센서
+  터치 센서를 이용한 도움 요청
+https://www.youtube.com/watch?v=06cM8VkekFg
+
+위치정보 서버를 통한 DB 저장
+https://www.youtube.com/watch?v=jRz4xJNekdY
 
 ## 코드
 
