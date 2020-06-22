@@ -63,10 +63,10 @@
   
 ## Our Product
 ### 앞
-  <img src="http://cscp2.sogang.ac.kr/CSE4186/CSE4186/UserData/Front.jpg" width="350" height="800">    
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/Front.jpg">    
   
 ### 뒤
-  <img src="https://github.com/2020Capston6/Capston/blob/master/img/Back.jpg">
+  <img src="https://github.com/2020Capston6/Capston/blob/master/img/Back.jpg"  width="480" height="640">
   
 ## 시연
   ### 비전센서
