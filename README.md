@@ -58,7 +58,7 @@ DEMODAY (최종 구현)
   
   <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/detail2.PNG" width="800" height="350"></p>
   
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/modules.PNG" width="800" height="350"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/modules.PNG" width="600" height="350"></p>
  
   
 ## Expected Achievement
