@@ -59,7 +59,7 @@
 ## 구현 내용
   
   Expected Achievement 에서 계획했던 것들을 모두 구현하였습니다. 서버에 저장된 정보 (도움이 필요한 경우 터치센서를 눌렀을 경우 전송된 GPS 정보)
-  <img src="http://cscp2.sogang.ac.kr/CSE4186/CSE4186/UserData/Server.png" width="350" height="250">
+  <img src="http://cscp2.sogang.ac.kr/CSE4186/CSE4186/UserData/Server.png">
   
 ## Our Product
 앞
