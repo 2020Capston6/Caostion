@@ -79,9 +79,10 @@ DEMODAY (최종 구현)
 ### 뒤
   <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/Back.jpg"  width="240" height="320"></p>
   
-## 시연
+## 기술 데모 시연
   ### 비전센서
   https://www.youtube.com/watch?time_continue=10&v=WdmUXlJQAFE&feature=emb_logo
+  
   https://www.youtube.com/watch?time_continue=4&v=fvFuvFG0NY0&feature=emb_logo
   
   ### 거리센서
@@ -89,7 +90,14 @@ DEMODAY (최종 구현)
   
   ### 터치센서
   https://www.youtube.com/watch?v=t7IN3Yq9SIw&feature=emb_logo
+ 
+
+## DEMODAY 최종 시연
+  ### 비전센서
   
+  ### 거리센서
+  
+  ### 터치센서
 
 ## 코드
 
