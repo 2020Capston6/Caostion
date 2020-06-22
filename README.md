@@ -33,7 +33,7 @@
 기술 데모
 <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal1.PNG" width="400" height="250"></p>
 DEMODAY (최종 구현)
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/ggoal1.PNG" width="400" height="250"></p>
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/ggoal1.PNG" width="600" height="350"></p>
   비전센서를 이용하여 보행자가 신호등에 도착했을 경우, 파란불이 들어왔을 때 손잡이에 달린 진동 센서를 통해 정보를 전달해줍니다.
 
 ## GOAL2
