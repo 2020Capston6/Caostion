@@ -76,10 +76,10 @@ DEMODAY (최종 구현)
   
 ## Our Product
 ### 앞
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/Front.jpg" width="430" height="600"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/Front.jpg" width="500" height="700"></p>
   
 ### 뒤
-  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/Back.jpg"  width="430" height="600"></p>
+  <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/Back.jpg"  width="500" height="700"></p>
   
 ## 기술 데모 시연
   ### 비전센서
