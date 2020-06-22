@@ -41,7 +41,7 @@ DEMODAY (최종 구현)
 기술 데모
 <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal2.PNG" width="400" height="250"></p>
 DEMODAY (최종 구현)
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/ggoal2.PNG" width="400" height="250"></p>
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/ggoal2.PNG" width="600" height="350"></p>
   초음파 거리센서를 이용하여 전방에 접근하는 보행자나 부딪칠만한 장애물이 있으면 검출하여 버저의 소리를 통해 위험 경보를 전달해줍니다.
 
 ## GOAL3
@@ -49,7 +49,7 @@ DEMODAY (최종 구현)
 기술 데모
 <p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/img/goal3.PNG" width="400" height="250"></p>
 DEMODAY (최종 구현)
-<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/ggoal3.PNG" width="400" height="250"></p>
+<p align="center"><img src="https://github.com/2020Capston6/Capston/blob/master/ggoal3.PNG" width="600" height="350"></p>
   터치센서를 이용하여 시각장애인이 위험에 처한 경우 도움을 요청하는 소리를 출력합니다. 또한 위치정보를 서버에 전송하여 위급한 상황인 경우에 즉각적인 도움도 줄 수 있도록 합니다.  위치정보는 DB에 저장하여 추후에 위험이 많이 일어난 장소에 대한 보수 및 시설물 설치가 가능하도록 돕습니다.
 
 ## Detail
